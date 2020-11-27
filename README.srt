@@ -1,0 +1,5 @@
+"If a movie assistant"
+
+If a movie assistant, is a project that allows you to receive movies recommendations based in a movie dataset.
+It uses spark to retrieve the data from the dataset and deep learning for natural language processing.
+

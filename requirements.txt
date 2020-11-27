@@ -1,0 +1,6 @@
+pyspark
+nltk
+numpy
+scikit-learn
+pandas
+keras
